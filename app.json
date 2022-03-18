@@ -1,7 +1,7 @@
 {
   "name": "String Session Generator",
   "description": "Telegram bot to generate Telethon/Pyrogram string session",
-  "logo": "https://telegra.ph/file/8dccc86794f8e6a1da251.jpg",
+  "logo": "https://telegra.ph/file/0043fe29f8af3b6daa78a.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/New-Dev3/TG-String-Bot",
+  "repository": "https://github.com/eldy020502/Venz-String-Generator",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
