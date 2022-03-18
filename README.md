@@ -2,7 +2,7 @@
 
 > Sebuah bintang ⭐ dari Anda sangat berarti bagi kami!
 
-<p align="center"><a href="https://github.com/Rexashh"><img src="https://telegra.ph/file/8dccc86794f8e6a1da251.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/eldy020502"><img src="https://telegra.ph/file/0043fe29f8af3b6daa78a.jpg" width="2000"></a></p>
 
 Bot Telegram untuk menghasilkan sesi string pyrogram dan telethon.
 
