@@ -11,14 +11,13 @@ Bot Telegram untuk menghasilkan sesi string pyrogram dan telethon.
 ## Note
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ini+adalah+Bot+Yang+Sangat+Berguna+Untuk;Mengambil+String+Session+Dari;Bot+Ini;Kamu+Dapat+Melihat+String+Milikmu+Di;Pesan+Tersimpan+Telegrammu;Jangan+Sebar+String+Session+Ini;Kepada+Siapapun;Another+Bytes+Account+Will+Be+Ban;Selamat+Mendeploy+%F0%9F%92%96)](https://git.io/typing-svg)
 
-## Usage
-
 ### Deploy to Heroku
 
 <p align="center">
 <a href="https://dashboard.heroku.com/new?template=https://github.com/eldy020502/Venz-String-Generator"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=ZWxkeTAyMDUwMi9WZW56LVN0cmluZy1HZW5lcmF0b3ItIG1haW4"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
+## Usage
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
