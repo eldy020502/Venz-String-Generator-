@@ -17,48 +17,48 @@ sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ {}
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("⌬ Start Generating Session ⌬", callback_data="generate")],
-        [InlineKeyboardButton(text="⌬ Return Home", callback_data="home")]
+        [InlineKeyboardButton("⚡ Mulai Ambil String ⚡", callback_data="generate")],
+        [InlineKeyboardButton(text="🔄 Kembali 🔄", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("⌬ Start Generating Session ⌬", callback_data="generate")]
+        [InlineKeyboardButton("⚡ Mulai Ambil String ⚡", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("⌬ Start Generating Session ⌬", callback_data="generate")],
-        [InlineKeyboardButton("⌬ Maintaned By ⌬", url="https://t.me/JustRex")],
+        [InlineKeyboardButton("⚡ Mulai Ambil String ⚡", callback_data="generate")],
+        [InlineKeyboardButton("🔥 Dikelola Oleh 🔥", url="https://t.me/JustRex")],
         [
-            InlineKeyboardButton("How To Use ❔", callback_data="help"),
-            InlineKeyboardButton("⋙ About ⋘", callback_data="about")
+            InlineKeyboardButton("Cara Pakai ❔", callback_data="help"),
+            InlineKeyboardButton("⚠️ Tentang ⚠️", callback_data="about")
         ],
-        [InlineKeyboardButton("🦖 Xa Support 🦖", url="https://t.me/rexaprivateroom")],
+        [InlineKeyboardButton("⚡ Venz Groups ⚡", url="https://t.me/justvenzzz")],
     ]
 
     # Help Message
     HELP = """
 ⌨ **Available Commands** ⌨
 
-/about - To Get About This Bot 🤖
-/help - Check The Bot Commands 🔧
-/start - Start The Bot
-/generate - Generate Your String Now 😊
-/cancel - Process Cancell 🥺
-/restart - Restart And Start Generate String Session 😊
+/about - Untuk Mengetahui Tentang Ini 🤖
+/help - Periksa Perintah Bot 🔧
+/start - Mulai Bot
+/generate - Mulai Mengambil String Anda ✨
+/cancel - Membatalkan Proses ❌
+/restart - Mulai Ulang Dan Mulai Hasilkan String 💯
 """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-A Telegram Bot To Generate Pyrogram And Telethon String Session...
+Bot Telegram Untuk Menghasilkan Sesi Pyrogram Dan String Telethon...
 
-Xa Support : [XA SUPPORT](https://t.me/rexaprivateroom)
+Venz Support : [VENZ SUPPORT](https://t.me/justvenzzz)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @JustRex
+Developer : @moonscrsh
     """
