@@ -21,10 +21,10 @@ from telethon.errors import (
     PasswordHashInvalidError
 )
 
-ERROR_MESSAGE = "Oops! An exception occurred! \n\n**Error** : {} " \
-            "\n\nTell in My Support @rexaprivateroom Oh Errors 😱" \
-            "sensitive information and you if want to report this as " \
-            "this error message is not being logged by us!"
+ERROR_MESSAGE = "Ups! Pengecualian terjadi! \n\n**Error** : {} " \
+            "\n\nBeritahu di Grup Saya @justvenzzz Oh Errors 😱" \
+            "informasi sensitif dan Anda jika ingin melaporkan ini sebagai " \
+            "pesan kesalahan ini tidak dicatat oleh kami!"
 
 
 @Client.on_message(filters.private & ~filters.forwarded & filters.command('generate'))
