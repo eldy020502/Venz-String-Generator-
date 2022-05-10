@@ -14,7 +14,7 @@ Bot Telegram untuk menghasilkan sesi string pyrogram dan telethon.
 ### Deploy to Heroku
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/eldy020502/Venz-String-Generator"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/eldy020502/Venz-String-Generator-"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=ZWxkeTAyMDUwMi9WZW56LVN0cmluZy1HZW5lcmF0b3ItIG1haW4"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 ## Usage
